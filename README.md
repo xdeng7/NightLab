@@ -2,6 +2,7 @@
 Dataset and code for CVPR 2022 NightLab
 
 The reannotated val set can be downloaded via [GoogleDrive](https://drive.google.com/file/d/1AKKLatjlJSwypjhQgUsH3mJrxUKtcHS0/view?usp=sharing).
+The images and annotations of train set can be found at [https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html).
 
 ##Citation
 If you find this code or data useful, please cite our paper
