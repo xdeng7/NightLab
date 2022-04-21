@@ -1,5 +1,5 @@
 # NightLab CVPR 2022
-Dataset and code for CVPR 2022 NightLab
+Dataset and code for CVPR 2022 NightLab[arXiv preprint](https://arxiv.org/abs/2204.05538)
 
 The reannotated val set can be downloaded via [GoogleDrive](https://drive.google.com/file/d/1EDhWx-fcS7pIIBGbu3TpebNrmyE08KzC/view?usp=sharing).
 
